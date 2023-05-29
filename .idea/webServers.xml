@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3f12df8e-4da4-4bc0-b633-5d6edc88fc72" name="xampp" url="http://localhost/pickandget">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\pickandget" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
